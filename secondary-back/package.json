@@ -31,7 +31,7 @@
     "axios": "^0.21.2",
     "class-validator": "^0.12.2",
     "form-data": "^3.0.0",
-    "jszip": "^3.7.0",
+    "jszip": "^3.8.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^6.5.4"
